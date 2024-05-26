@@ -1,5 +1,5 @@
 # Ѓорѓи Камчев 215027
-![Untitled Diagram drawio](https://github.com/FinalGetsuga/SI_2024_lab2_215027/assets/121571223/d329f7d7-682b-452f-a387-43263cd8e827)
+![Untitled Diagram drawio](https://github.com/FinalGetsuga/SI_2024_lab2_215027/assets/121571223/0d9d7931-f85c-4e8b-81d1-cbd141646cca)
 M = [Number of decision points] + 1 => M = 9 + 1 = 10<br>
 Бидејќи е една единствена функција може да се искористи ова решение.Во нашиов код имаме 7 if decision points и 2 for decision points па така
 цикломатската комплексност на дадениот код изнесува 10. 
