@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="22" skipped="0" failures="0" errors="0" timestamp="2024-05-26T19:02:12" hostname="IPHONE-14MAXPRO" time="0.073">
+  <properties/>
+  <testcase name="returnTrueEmptyListTest()" classname="SILab2Test" time="0.024"/>
+  <testcase name="tffTrue()" classname="SILab2Test" time="0.002"/>
+  <testcase name="tftTrue()" classname="SILab2Test" time="0.002"/>
+  <testcase name="ttfFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="returnTrueEmptyNameTest()" classname="SILab2Test" time="0.001"/>
+  <testcase name="ttfTrue()" classname="SILab2Test" time="0.001"/>
+  <testcase name="tttTrue()" classname="SILab2Test" time="0.001"/>
+  <testcase name="fffTrue()" classname="SILab2Test" time="0.001"/>
+  <testcase name="fftTrue()" classname="SILab2Test" time="0.001"/>
+  <testcase name="returnTrueNullNameTest()" classname="SILab2Test" time="0.0"/>
+  <testcase name="tttFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="tffFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="ftfTrue()" classname="SILab2Test" time="0.002"/>
+  <testcase name="fttTrue()" classname="SILab2Test" time="0.001"/>
+  <testcase name="tftFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="InvalidCharacterInCodeExceptionTest()" classname="SILab2Test" time="0.005"/>
+  <testcase name="ftfFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="fttFalse()" classname="SILab2Test" time="0.0"/>
+  <testcase name="fffFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="fftFalse()" classname="SILab2Test" time="0.001"/>
+  <testcase name="nullListTest()" classname="SILab2Test" time="0.001"/>
+  <testcase name="nullCodeExceptionTest()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
